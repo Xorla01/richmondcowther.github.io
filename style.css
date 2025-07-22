@@ -253,15 +253,15 @@ nav {
     background-color: #111;
     color: #f4f4f4;
     text-align: center;
-    padding: 2em 0;
+    padding: 2.5em 0;
     font-family: Poppins, sans-serif;
-    font-size: 0.95rem;
+    font-size: 0.9rem;
 }
 .footer .motto {
     font-style: italic;
     font-weight: 500;
-    font-size: 0.95rem;
-    margin: 0.5em 0;
+    font-size: 0.9rem;
+    margin: 0.4em 0;
     color: #00bfff;
 }
 .footer a {
