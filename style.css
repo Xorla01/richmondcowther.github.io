@@ -183,7 +183,7 @@ nav {
 #projects h2 {
     text-align: center;
 }
-#project .soon {
+.soon {
     font-style: italic;
     font-size: 1.5rem;
     font-weight: bold;
