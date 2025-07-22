@@ -183,20 +183,6 @@ nav {
 #projects h2 {
     text-align: center;
 }
-.project-list {
-    list-style: none;
-    margin: 0 auto 0 10px;
-    padding: 10px;
-}
-.project-list a {
-    text-decoration: none;
-    color: #007bff;
-    font-weight: bold;
-    transition: color 0.3s ease;
-}
-.project-list a:hover {
-    color: #0056b3;
-}
 
 /* Contact */
 #contact {
