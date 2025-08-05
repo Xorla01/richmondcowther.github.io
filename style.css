@@ -354,6 +354,7 @@ iframe {
     justify-content: center;
     margin: 0 auto;
     padding: 0;
+    padding-bottom: 100px;
 }
 .contact-box h2 {
     font-size: 4rem;
@@ -590,3 +591,4 @@ input:focus::placeholder, textarea:focus::placeholder {
         padding: 1rem;
     }
 }
+
