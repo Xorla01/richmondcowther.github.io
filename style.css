@@ -383,7 +383,9 @@ form {
     flex-wrap: wrap;
     gap: 1.5rem;
     padding: 1.5rem;
-    
+}
+.contact-links { 
+    text-align: center;
 }
 label {
     font-size: 1rem;
@@ -544,3 +546,4 @@ input:focus::placeholder, textarea:focus::placeholder {
     .contact-form textarea { width: 80vw !important; max-width: 90vw; height: 150px; margin: 0 auto; display: block;}
     .contact-links { text-align: center;}
 }
+
